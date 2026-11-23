@@ -4,7 +4,8 @@
 
   
 **Batch:** [21]  
-**Members:** [Hardik] , [Kunal]
+**Members:** [Hardik] , [Kunal] , [Akshaj]
+
 ## Problem statement
 Develop a result-processing program that calculates student performance across multiple subjects. Accept marks for five subjects for multiple students, calculate total, percentage, grade and pass/fail status, and display the class topper and class average.
 
